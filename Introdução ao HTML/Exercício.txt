@@ -1,0 +1,21 @@
+EXERCÍCIO 
+
+1. Abra o Bloco de Notas e digite os códigos abaixo:
+
+<HTML>
+<HEAD>
+<TITLE>EXERCÍCIO 1</TITLE>
+</HEAD>
+<BODY>
+<P>Está é a primeira vez que digito um documento HTML para criar 
+uma página web.</P>
+<P>Nome: digite seu nome<BR>
+Nasc.: digite sua data de nascimento<BR>
+End.: digite seu endereço</P>
+<P>Muito legal!</P>
+</BODY>
+</HTML>
+
+2. Após concluir, salve o arquivo como Exerc1.html e visualize-o
+ no navegador.
+

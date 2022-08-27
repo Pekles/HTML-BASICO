@@ -1,0 +1,9 @@
+Link para estudos de códigos: digitalhouse.com/br/blog/criar-site-em-html-passo-a-passo/#:~:text=Abra%20um%20editor%20de%20texto,%2C%20Sublime%20Text%2C%20entre%20outros.
+
+para desenvolver códigos HTML para sites, 
+você pode utilizar simples editores de
+ texto, como o bloco de notas do Windows,
+ por exemplo. Caso tenha interesse,
+ existem muitos bons editores de código 
+disponíveis para utilização, como o Atom,
+ Sublime Text, entre outros.
